@@ -18,7 +18,7 @@ Estudante de Desenvolvimento de Sistemas e programador em Java e tecnologias bac
 - **Linguagens**: Java (principal), Python, HTML, CSS e JavaScript
 - **Frameworks**: Spring Boot, JUnit
 - **Banco de dados**: MySQL, PostgreSQL
-- **Outros**: Git, GitHub, IntelliJ IDEA, Apache NetBeans IDE, VS Code
+- **Outros**: Git, GitHub, IntelliJ IDEA, VS Code
 
 ---
 
